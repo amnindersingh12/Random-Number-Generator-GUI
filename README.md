@@ -1,4 +1,3 @@
-Random-Number-Generator-GUI-
 A randomly random number generator
 
 Steps to Run
